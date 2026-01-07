@@ -21,25 +21,11 @@ This is a personal profile and is not used for work-related projects.
 
 ## Tools & Tech
 
-**Languages**
-- C#
-- TypeScript / JavaScript
-- C
-- Java
-
-**Frameworks & Platforms**
-- .NET / ASP.NET
-- React.js
-
-**Tools & Environment**
+- C# | Ts/Js | C | Java
+- .NET / ASP.NET | React.js
 - Linux | Windows | FreeBSD
-- Docker
 - Emacs | Visual Studio | Vim
-
-**Dbs**
-- PostgreSQL
-- MySQL
-- Oracle
+- PostgreSQL | MySQL| Oracle
 
 ---
 
